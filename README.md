@@ -6,3 +6,4 @@ Summary of the design patterns explained in the repo [Design Patterns in Repo](h
 
 ### GoF Patterns
 
+* [Adapter](): helps two incompatible interfaces to work together
