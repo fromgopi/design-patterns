@@ -4,7 +4,7 @@ Summary of the design patterns explained in the repo [Design Patterns in Repo](h
  
 ## Design Patterns  
 
-### GoF Patterns 
+### GoF Patterns  
 
 * [Adapter](): helps two incompatible interfaces to work together
 *  [Builder](): create complex objects that are hard to configure
