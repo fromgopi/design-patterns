@@ -10,7 +10,6 @@ class Storage {
         virtual void write (const std::string &msg) = 0;
 }
 
-
 #endif
 
 
