@@ -17,7 +17,7 @@
 .byebug_history
   
 ## Specific to RubyMotion:
-.dat*
+.dat* 
 .repl_history 
 build/
 *.bridgesupport
