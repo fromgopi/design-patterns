@@ -16,4 +16,3 @@ void Logger::warn (const std::string &msg)
 }
 
 
-
