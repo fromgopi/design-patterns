@@ -10,4 +10,3 @@ class Cube {
         double length_;
 };
 
-
