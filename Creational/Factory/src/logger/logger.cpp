@@ -14,4 +14,3 @@ void Logger::warn (const std::string &msg)
 
     _storage->write(std::string("[WARN] ") + msg);
 }
-
