@@ -6,7 +6,7 @@ LIBS := -pthread
 TARGET := main
 OBJDIR := .obj
 
-SRC := $(shell find . -name "*.cpp" | cut -c3-)
+SRC := $(shell find . -name "*.cpp" | cut -c3-) 
 OBJ := $(addprefix $(OBJDIR)/, $(patsubst %.cpp, %.o, $(SRC)))
 
 all: $(OBJ)
