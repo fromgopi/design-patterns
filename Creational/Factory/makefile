@@ -2,7 +2,7 @@ CXX := clang
 CXXFLAGS := -std=c++17 -fcolor-diagnostics
 
 LIBS := -pthread
-
+ 
 TARGET := main
 OBJDIR := .obj
 
