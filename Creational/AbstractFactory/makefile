@@ -4,7 +4,7 @@ CXXFLAGS := -std=c++17 -Wall -pedantic -g
 LIBS := -pthread
 
 TARGET := main
-OBJDIR := .obj
+OBJDIR := .obj 
 
 SRC := $(shell find . -name "*.cpp" | cut -c3-)
 OBJ := $(addprefix $(OBJDIR)/, $(patsubst %.cpp, %.o, $(SRC)))
