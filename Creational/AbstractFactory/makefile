@@ -22,3 +22,4 @@ run:
 clean:
 	rm -rf $(OBJDIR)
 	rm -f $(TARGET) temp.log
+	
