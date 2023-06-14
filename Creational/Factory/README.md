@@ -2,6 +2,7 @@
  
 ### GENERAL
 
+
 **Creational** GoF design pattern that defines an interface for creating objects, but lets individual subclasses
 decide which concrete object to instantiate.
 
